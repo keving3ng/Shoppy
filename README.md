@@ -1,5 +1,6 @@
 ## Overview
-DBL is a learning project where I plan to explore and implement variety of popular software tools and frameworks. 
+Shoppy is a learning project where I plan to explore and implement variety of popular software tools and frameworks. It models a store with its various
+facets managed using software. 'DBL' was the "codename" for this project before I knew what it was, so you will see that codename in various places.
 
 ![Image of DBL Conceptual Architecture](https://i.ibb.co/DQyv4pq/dbl-Conceptual-Architecture-June-2019.png)
 
